@@ -1,4 +1,4 @@
-# Theme:       Breeze-gtk
+# Theme:       Breeze-Blue-Dark-gtk
 # Description: Breeze theme for GTK+2.0
 
 gtk-color-scheme = "text_color:#eff0f1"
@@ -10,7 +10,7 @@ gtk-color-scheme = "selected_fg_color:#eff0f1"
 gtk-color-scheme = "selected_bg_color:#2e75bc"
 gtk-color-scheme = "button_fg_color:#eff0f1"
 gtk-color-scheme = "tooltip_fg_color:#eff0f1"
-gtk-color-scheme = "tooltip_bg_color:#1e262c"
+gtk-color-scheme = "tooltip_bg_color:#2e3a43"
 gtk-color-scheme = "insensitive_fg_color:#1e262c"
 gtk-color-scheme = "insensitive_text_color:#364851"
 gtk-color-scheme = "button_insensitive_fg_color:#1e262c"
